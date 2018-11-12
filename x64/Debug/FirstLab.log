@@ -1,0 +1,31 @@
+﻿  main.cpp
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(68): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(158): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(177): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(191): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(205): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(292): warning C4101: 'status': unreferenced local variable
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(367): warning C4101: 'diff12_2': unreferenced local variable
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(294): warning C4101: 'col1': unreferenced local variable
+c:\users\paula silva\vision\firstlab\firstlab\main.cpp(294): warning C4101: 'col2': unreferenced local variable
+  FirstLab.vcxproj -> C:\Users\Paula Silva\Vision\FirstLab\x64\Debug\FirstLab.exe
